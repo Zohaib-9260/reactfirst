@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* portfolio code start here */
+
+.links a{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+.links a:hover{
+  color: rgb(126, 190, 29);
+}
+
+
+.hero-btn{
+  transition: all 0.3s ease-in;
+}
+.hero-btn:hover{
+  background-color: #F6AF65;
+}
+/* grid one */
+.gridone1{
+  transition: all 0.3s ease-in;
+}
+.gridone1:hover{
+  background-color: rgba(29, 105, 6, 0.5);
+}
+.gridone2{
+  transition: all 0.3s ease-in;
+}
+.gridone2:hover{
+  /* background-color: rgba(6, 145, 138, 0.5);
+   */
+   background-color: #8AC4FF;
+}
+.gridone3{
+  transition: all 0.3s ease-in;
+}
+.gridone3:hover{
+  background-color: rgba(145, 131, 8, 0.5);
+}
+
+
+/* grid two */
+.g2-one ,.g2-two{
+  transition: all 0.4s ease-in-out;
+}
+.g2-one:hover{
+  filter: brightness(70%);
+}
+.g2-two:hover{
+  filter: brightness(70%);
+}
+.grid2-2{
+  transition: all 0.5s ease-in-out;
+}
+.grid2-2:hover{
+  background-color: black;
+  color: rgb(126, 190, 29);
+
+}
+.bars{
+  background-color: white;
+  transition: all 0.5s ease-in-out;
+}
+.bars:hover{
+  background-color: black;
+  color:  whitesmoke;
+}
+
+/* team */
+.t-1{
+  background-color: white;
+  transition: all 0.4s ease-in-out;
+
+}
+.t-1:hover{
+  background-color: #93C48B;
+  color: white;
+}
+
+.t-2{
+  background-color: white;
+  transition: all 0.4s ease-in-out;
+}
+.t-2:hover{
+  background-color: #9593D9;
+  color: white;
+}
+.t-3{
+  background-color: white;
+  transition: all 0.4s ease-in-out;
+
+}
+.t-3:hover{
+  background-color: #4C4C4C;
+  color: white;
+}
+.t-4{
+  background-color: white;
+  transition: all 0.4s ease-in-out;
+
+}
+.t-4:hover{
+  background-color: #3C887E;
+  color: white;
+}
+.fone:hover{
+ color: blue;
+}
+.ftwo:hover{
+  color: pink;
+ }
+.fthree:hover{
+  color: red;
+ }
+ .ffour:hover{
+  color: blue;
+ }
